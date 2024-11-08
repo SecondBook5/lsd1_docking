@@ -1,0 +1,23 @@
+# Configuration for AutoDock Vina Docking
+
+# Receptor: The protein file in PDBQT format
+receptor = protein_structures/2UXX_cleaned.pdbqt
+
+# Ligand: The ligand file in PDBQT format
+ligand = ligands/ory1001_optimized.pdbqt
+
+# Center coordinates for the docking grid (use the verified center of mass)
+center_x = 66.83
+center_y = 64.16
+center_z = 31.46
+
+# Size of the grid box (dimensions of the search space)
+size_x = 25.0
+size_y = 25.0
+size_z = 25.0
+
+# Exhaustiveness (higher values mean more thorough search, takes longer)
+exhaustiveness = 8
+
+# Number of docking modes to output
+num_modes = 9
