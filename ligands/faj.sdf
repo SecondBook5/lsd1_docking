@@ -1,0 +1,801 @@
+ligands/faj.pdb
+     RDKit          3D
+
+108115  0  0  1  0  0  0  0  0999 V2000
+   -7.7280    0.1765   -1.5618 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1756    3.1768   -1.3710 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8637    0.8125   -0.8982 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9356    1.6625   -1.5766 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8935    2.2930   -0.8327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6702    1.9125    0.5297 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3671    0.7536    1.1075 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8477    0.7447    0.6236 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -7.6697    1.8891    1.3026 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -8.4498    2.7840    0.3406 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6167    2.3353   -0.3107 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2888    3.1628   -1.2159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8035    4.4435   -1.4888 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6384    4.8937   -0.8634 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9625    4.0710    0.0430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.5810    1.1977    2.3339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.5722   -0.2936    2.0072 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -9.7782   -0.6751    1.4024 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4732   -0.4883    1.0737 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8108   -1.7463    0.8902 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5463   -2.9385    0.8738 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9157   -4.1729    0.6756 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7454   -5.4301    0.6394 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5213   -4.2084    0.4684 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7955   -5.5115    0.2489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7837   -3.0135    0.5079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4119   -1.7643    0.7124 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6594   -0.5102    0.7696 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1837   -0.5129    0.8943 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4878   -0.3214   -0.4743 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.9860   -1.2418   -1.4156 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9378   -0.4082   -0.3327 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4906    0.4890    0.6553 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1974   -0.1355   -1.6737 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5576   -1.0759   -2.6557 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3294   -0.1325   -1.4795 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9622    0.0335   -2.7228 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6619   -0.0512   -2.5333 P   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2040   -0.7225   -3.7745 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3101    1.5154   -2.4953 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1453   -1.0108   -1.1988 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2317   -0.0920    0.2475 P   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1626    1.4046    0.0446 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9469   -0.5460    1.2476 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6773   -0.4687    1.0663 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7507   -0.3283    0.1652 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0611   -0.6311    0.8980 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.1278   -0.6298   -0.0252 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3672    0.3962    2.0082 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.3011   -0.1957    3.2845 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7588    0.8996    1.6649 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.5946    0.9652    2.7929 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2500   -0.1343    0.6627 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.1966    0.4606   -0.2828 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9305    1.2860   -1.3293 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0492    1.7115   -1.9813 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0390    1.1168   -1.2881 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5330    0.3806   -0.2720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3140   -0.3131    0.5892 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6683   -0.2594    0.4106 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2068    0.4809   -0.6106 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4153    1.1797   -1.4782 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9963    1.9401   -2.5365 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0267    1.8299   -2.6038 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9909    2.4550    1.1094 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3551    0.8519    2.2166 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9848    2.5480    1.8828 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0008    1.3421   -0.1308 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1868    2.8123   -1.7043 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.3268    5.0806   -2.1909 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2587    5.8850   -1.0778 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0540    4.4369    0.5054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6113    1.6127    2.3537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1514    1.3401    3.3481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3882   -0.8915    2.9326 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4364   -0.7708    2.1358 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6171   -2.9060    1.0026 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8025   -5.8074   -0.4024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7781   -5.2453    0.9993 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2967   -6.2059    1.2929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3041   -6.1080   -0.5388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7441   -5.3453   -0.0747 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7812   -6.0960    1.1936 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7158   -3.0837    0.3815 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8694    0.3101    1.5711 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8188   -1.4243    1.4090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7327    0.6924   -0.8498 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5587   -2.1190   -1.2388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6767   -1.4334    0.0125 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7203    1.4056    0.3501 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4924    0.8716   -2.0434 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2669   -1.9708   -2.3358 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6188   -1.1040   -1.0205 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5976    0.7147   -0.8117 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2897    1.3900   -2.5756 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0619   -1.5182    1.3850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7991    0.7036   -0.2540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6541   -1.0588   -0.6715 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9777   -1.6571    1.3241 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6516    1.2521    1.9946 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9453   -0.9508    3.3115 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6705    1.9019    1.1831 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4195    1.4345    2.5024 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7370   -0.9823    1.1966 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9294    1.5793   -1.6204 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3202   -0.8051    1.0791 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0325    1.9633   -2.6616 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3971    2.4649   -3.2117 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  2  5  2  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  7  6  1  0
+  7  8  1  0
+  7 28  1  0
+  8  3  1  6
+  8  9  1  0
+  8 19  1  0
+  9 10  1  0
+  9 16  1  0
+ 10 11  2  0
+ 10 15  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 20 27  2  0
+ 21 22  2  0
+ 22 23  1  0
+ 22 24  1  0
+ 24 25  1  0
+ 24 26  2  0
+ 26 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 30 32  1  0
+ 32 33  1  0
+ 32 34  1  0
+ 34 35  1  0
+ 34 36  1  0
+ 36 37  1  0
+ 37 38  1  0
+ 38 39  2  0
+ 38 40  1  0
+ 38 41  1  0
+ 41 42  1  0
+ 42 43  2  0
+ 42 44  1  0
+ 42 45  1  0
+ 45 46  1  0
+ 47 46  1  0
+ 47 48  1  0
+ 47 49  1  0
+ 48 53  1  0
+ 49 50  1  0
+ 49 51  1  0
+ 51 52  1  0
+ 51 53  1  0
+ 53 54  1  0
+ 54 55  1  0
+ 54 58  1  0
+ 55 56  2  0
+ 56 57  1  0
+ 57 58  2  0
+ 57 62  1  0
+ 58 59  1  0
+ 59 60  2  0
+ 60 61  1  0
+ 61 62  2  0
+ 62 63  1  0
+  4 64  1  0
+  6 65  1  0
+  7 66  1  0
+  9 67  1  1
+ 11 68  1  0
+ 12 69  1  0
+ 13 70  1  0
+ 14 71  1  0
+ 15 72  1  0
+ 16 73  1  0
+ 16 74  1  0
+ 17 75  1  1
+ 18 76  1  0
+ 21 77  1  0
+ 23 78  1  0
+ 23 79  1  0
+ 23 80  1  0
+ 25 81  1  0
+ 25 82  1  0
+ 25 83  1  0
+ 26 84  1  0
+ 29 85  1  0
+ 29 86  1  0
+ 30 87  1  6
+ 31 88  1  0
+ 32 89  1  1
+ 33 90  1  0
+ 34 91  1  6
+ 35 92  1  0
+ 36 93  1  0
+ 36 94  1  0
+ 40 95  1  0
+ 44 96  1  0
+ 46 97  1  0
+ 46 98  1  0
+ 47 99  1  1
+ 49100  1  1
+ 50101  1  0
+ 51102  1  6
+ 52103  1  0
+ 53104  1  1
+ 55105  1  0
+ 60106  1  0
+ 63107  1  0
+ 63108  1  0
+M  END
+>  <HEADER>  (1) 
+    OXIDOREDUCTASE/REPRESSOR                30-MAR-07   2UXX
+
+>  <TITLE>  (1) 
+    MDANALYSIS FRAME 0: Created by PDBWriter
+
+>  <COMPND>  (1) 
+    MOL_ID: 1;
+    2 MOLECULE: LYSINE-SPECIFIC HISTONE DEMETHYLASE 1;
+    3 CHAIN: A;
+    4 FRAGMENT: SWIRM DOMAIN, AMINE OXIDASE DOMAIN AND LINKER, RESIDUES
+    5 171-836;
+    6 SYNONYM: FLAVIN-CONTAINING AMINE OXIDASE DOMAIN-CONTAINING PROTEIN 2,
+    7 BRAF35-HDAC COMPLEX PROTEIN BHC110, LYSINE- SPECIFIC DEMETHYLASE 1;
+    8 EC: 1.-.-.-;
+    9 ENGINEERED: YES;
+    10 MOL_ID: 2;
+    11 MOLECULE: REST COREPRESSOR 1;
+    12 CHAIN: B;
+    13 FRAGMENT: FRAGMENT OF SANT1, LINKER REGION AND SANT2 DOMAIN, RESIDUES
+    14 308-482;
+    15 SYNONYM: PROTEIN COREST, NUCLEAR RECEPTOR COREPRESSOR 2;
+    16 ENGINEERED: YES
+
+>  <REMARK>  (1) 
+     1
+     1 REFERENCE 1
+     1  AUTH   M.YANG,C.B.GOCKE,X.LUO,D.BOREK,D.R.TOMCHICK,M.MACHIUS,
+     1  AUTH 2 Z.OTWINOWSKI,H.YU
+     1  TITL   STRUCTURAL BASIS FOR COREST-DEPENDENT DEMETHYLATION OF
+     1  TITL 2 NUCLEOSOMES BY THE HUMAN LSD1 HISTONE DEMETHYLASE
+     1  REF    MOLECULAR CELL                V.  23   377 2006
+     1  REFN                   ISSN 1097-2765
+     1  PMID   16885027
+     1  DOI    10.1016/J.MOLCEL.2006.07.012
+     2
+     2 RESOLUTION.    2.74 ANGSTROMS.
+     3
+     3 REFINEMENT.
+     3   PROGRAM     : REFMAC 5.2.0019
+     3   AUTHORS     : MURSHUDOV,SKUBAK,LEBEDEV,PANNU,STEINER,
+     3               : NICHOLLS,WINN,LONG,VAGIN
+     3
+     3    REFINEMENT TARGET : MAXIMUM LIKELIHOOD
+     3
+     3  DATA USED IN REFINEMENT.
+     3   RESOLUTION RANGE HIGH (ANGSTROMS) : 2.74
+     3   RESOLUTION RANGE LOW  (ANGSTROMS) : 49.00
+     3   DATA CUTOFF            (SIGMA(F)) : NULL
+     3   COMPLETENESS FOR RANGE        (%) : 97.5
+     3   NUMBER OF REFLECTIONS             : 63643
+     3
+     3  FIT TO DATA USED IN REFINEMENT.
+     3   CROSS-VALIDATION METHOD          : THROUGHOUT
+     3   FREE R VALUE TEST SET SELECTION  : RANDOM
+     3   R VALUE     (WORKING + TEST SET) : 0.236
+     3   R VALUE            (WORKING SET) : 0.235
+     3   FREE R VALUE                     : 0.260
+     3   FREE R VALUE TEST SET SIZE   (%) : 2.300
+     3   FREE R VALUE TEST SET COUNT      : 1529
+     3
+     3  FIT IN THE HIGHEST RESOLUTION BIN.
+     3   TOTAL NUMBER OF BINS USED           : 20
+     3   BIN RESOLUTION RANGE HIGH       (A) : 2.74
+     3   BIN RESOLUTION RANGE LOW        (A) : 2.81
+     3   REFLECTION IN BIN     (WORKING SET) : 3754
+     3   BIN COMPLETENESS (WORKING+TEST) (%) : NULL
+     3   BIN R VALUE           (WORKING SET) : 0.3380
+     3   BIN FREE R VALUE SET COUNT          : 81
+     3   BIN FREE R VALUE                    : 0.3720
+     3
+     3  NUMBER OF NON-HYDROGEN ATOMS USED IN REFINEMENT.
+     3   PROTEIN ATOMS            : 6295
+     3   NUCLEIC ACID ATOMS       : 0
+     3   HETEROGEN ATOMS          : 76
+     3   SOLVENT ATOMS            : 8
+     3
+     3  B VALUES.
+     3   B VALUE TYPE : LIKELY RESIDUAL
+     3   FROM WILSON PLOT           (A**2) : 84.20
+     3   MEAN B VALUE      (OVERALL, A**2) : 99.60
+     3   OVERALL ANISOTROPIC B VALUE.
+     3    B11 (A**2) : 7.75000
+     3    B22 (A**2) : -6.02000
+     3    B33 (A**2) : -1.73000
+     3    B12 (A**2) : 0.00000
+     3    B13 (A**2) : 0.00000
+     3    B23 (A**2) : 0.00000
+     3
+     3  ESTIMATED OVERALL COORDINATE ERROR.
+     3   ESU BASED ON R VALUE                            (A): 0.269
+     3   ESU BASED ON FREE R VALUE                       (A): 0.230
+     3   ESU BASED ON MAXIMUM LIKELIHOOD                 (A): 0.198
+     3   ESU FOR B VALUES BASED ON MAXIMUM LIKELIHOOD (A**2): 20.293
+     3
+     3 CORRELATION COEFFICIENTS.
+     3   CORRELATION COEFFICIENT FO-FC      : 0.941
+     3   CORRELATION COEFFICIENT FO-FC FREE : 0.924
+     3
+     3  RMS DEVIATIONS FROM IDEAL VALUES        COUNT    RMS    WEIGHT
+     3   BOND LENGTHS REFINED ATOMS        (A):  6505 ; 0.006 ; 0.022
+     3   BOND LENGTHS OTHERS               (A):  NULL ;  NULL ;  NULL
+     3   BOND ANGLES REFINED ATOMS   (DEGREES):  8824 ; 1.070 ; 1.976
+     3   BOND ANGLES OTHERS          (DEGREES):  NULL ;  NULL ;  NULL
+     3   TORSION ANGLES, PERIOD 1    (DEGREES):   797 ; 1.475 ; 5.000
+     3   TORSION ANGLES, PERIOD 2    (DEGREES):   296 ;35.260 ;24.392
+     3   TORSION ANGLES, PERIOD 3    (DEGREES):  1131 ;14.591 ;15.000
+     3   TORSION ANGLES, PERIOD 4    (DEGREES):    43 ;14.415 ;15.000
+     3   CHIRAL-CENTER RESTRAINTS       (A**3):   988 ; 0.068 ; 0.200
+     3   GENERAL PLANES REFINED ATOMS      (A):  5648 ; 0.004 ; 0.020
+     3   GENERAL PLANES OTHERS             (A):  NULL ;  NULL ;  NULL
+     3   NON-BONDED CONTACTS REFINED ATOMS (A):  2829 ; 0.174 ; 0.200
+     3   NON-BONDED CONTACTS OTHERS        (A):  NULL ;  NULL ;  NULL
+     3   NON-BONDED TORSION REFINED ATOMS  (A):  4508 ; 0.294 ; 0.200
+     3   NON-BONDED TORSION OTHERS         (A):  NULL ;  NULL ;  NULL
+     3   H-BOND (X...Y) REFINED ATOMS      (A):   178 ; 0.114 ; 0.200
+     3   H-BOND (X...Y) OTHERS             (A):  NULL ;  NULL ;  NULL
+     3   POTENTIAL METAL-ION REFINED ATOMS (A):  NULL ;  NULL ;  NULL
+     3   POTENTIAL METAL-ION OTHERS        (A):  NULL ;  NULL ;  NULL
+     3   SYMMETRY VDW REFINED ATOMS        (A):    43 ; 0.131 ; 0.200
+     3   SYMMETRY VDW OTHERS               (A):  NULL ;  NULL ;  NULL
+     3   SYMMETRY H-BOND REFINED ATOMS     (A):     1 ; 0.158 ; 0.200
+     3   SYMMETRY H-BOND OTHERS            (A):  NULL ;  NULL ;  NULL
+     3   SYMMETRY METAL-ION REFINED ATOMS  (A):  NULL ;  NULL ;  NULL
+     3   SYMMETRY METAL-ION OTHERS         (A):  NULL ;  NULL ;  NULL
+     3
+     3  ISOTROPIC THERMAL FACTOR RESTRAINTS.     COUNT   RMS    WEIGHT
+     3   MAIN-CHAIN BOND REFINED ATOMS  (A**2):  4103 ; 0.341 ; 1.500
+     3   MAIN-CHAIN BOND OTHER ATOMS    (A**2):  NULL ;  NULL ;  NULL
+     3   MAIN-CHAIN ANGLE REFINED ATOMS (A**2):  6437 ; 0.599 ; 2.000
+     3   MAIN-CHAIN ANGLE OTHER ATOMS   (A**2):  NULL ;  NULL ;  NULL
+     3   SIDE-CHAIN BOND REFINED ATOMS  (A**2):  2712 ; 0.526 ; 3.000
+     3   SIDE-CHAIN BOND OTHER ATOMS    (A**2):  NULL ;  NULL ;  NULL
+     3   SIDE-CHAIN ANGLE REFINED ATOMS (A**2):  2387 ; 0.903 ; 4.500
+     3   SIDE-CHAIN ANGLE OTHER ATOMS   (A**2):  NULL ;  NULL ;  NULL
+     3   LONG RANGE B REFINED ATOMS     (A**2):  NULL ;  NULL ;  NULL
+     3   LONG RANGE B OTHER ATOMS       (A**2):  NULL ;  NULL ;  NULL
+     3
+     3 ANISOTROPIC THERMAL FACTOR RESTRAINTS.    COUNT   RMS   WEIGHT
+     3   RIGID-BOND RESTRAINTS          (A**2):  NULL ;  NULL ;  NULL
+     3   SPHERICITY; FREE ATOMS         (A**2):  NULL ;  NULL ;  NULL
+     3   SPHERICITY; BONDED ATOMS       (A**2):  NULL ;  NULL ;  NULL
+     3
+     3  NCS RESTRAINTS STATISTICS
+     3   NUMBER OF DIFFERENT NCS GROUPS : NULL
+     3
+     3  TLS DETAILS
+     3   NUMBER OF TLS GROUPS  : 2
+     3
+     3   TLS GROUP : 1
+     3    NUMBER OF COMPONENTS GROUP : 1
+     3    COMPONENTS        C SSSEQI   TO  C SSSEQI
+     3    RESIDUE RANGE :   A   171        A   835
+     3    ORIGIN FOR THE GROUP (A):  60.5053  49.8913  33.9619
+     3    T TENSOR
+     3      T11:   -.3800 T22:   -.2495
+     3      T33:   -.3288 T12:    .0743
+     3      T13:    .1000 T23:    .1660
+     3    L TENSOR
+     3      L11:    .6364 L22:   2.1049
+     3      L33:   1.1825 L12:    .7549
+     3      L13:   -.2895 L23:  -1.0165
+     3    S TENSOR
+     3      S11:   -.0473 S12:   -.2700 S13:   -.2699
+     3      S21:    .1248 S22:   -.2795 S23:   -.2132
+     3      S31:   -.0204 S32:    .3070 S33:    .3267
+     3
+     3   TLS GROUP : 2
+     3    NUMBER OF COMPONENTS GROUP : 1
+     3    COMPONENTS        C SSSEQI   TO  C SSSEQI
+     3    RESIDUE RANGE :   B   309        B   440
+     3    ORIGIN FOR THE GROUP (A):  24.2047  -1.7228  59.0045
+     3    T TENSOR
+     3      T11:   -.0002 T22:    .0001
+     3      T33:    .0000 T12:    .0001
+     3      T13:    .0002 T23:    .0001
+     3    L TENSOR
+     3      L11:   3.0095 L22:   6.8461
+     3      L33:   1.9362 L12:   4.1103
+     3      L13:  -2.2223 L23:  -2.4321
+     3    S TENSOR
+     3      S11:   -.2947 S12:    .2667 S13:    .1716
+     3      S21:   -.6319 S22:    .0774 S23:   -.4162
+     3      S31:    .3240 S32:   -.0165 S33:    .2172
+     3
+     3  BULK SOLVENT MODELLING.
+     3   METHOD USED : MASK
+     3   PARAMETERS FOR MASK CALCULATION
+     3   VDW PROBE RADIUS   : 1.40
+     3   ION PROBE RADIUS   : 0.80
+     3   SHRINKAGE RADIUS   : 0.80
+     3
+     3  OTHER REFINEMENT REMARKS: HYDROGENS HAVE BEEN ADDED IN THE
+     RIDING
+     3  POSITIONS. RESIDUES 836 TO 852 IN LSD1 AS WELL AS RESIDUES 286
+     3  TO 307 AND RESIDUES 442 TO 482 IN COREST ARE DISORDERED.
+     4
+     4 2UXX COMPLIES WITH FORMAT V. 3.30, 13-JUL-11
+     100
+     100 THIS ENTRY HAS BEEN PROCESSED BY PDBE ON 30-MAR-07.
+     100 THE DEPOSITION ID IS D_1290032146.
+     200
+     200 EXPERIMENTAL DETAILS
+     200  EXPERIMENT TYPE                : X-RAY DIFFRACTION
+     200  DATE OF DATA COLLECTION        : 18-OCT-06
+     200  TEMPERATURE           (KELVIN) : 100
+     200  PH                             : 5.6
+     200  NUMBER OF CRYSTALS USED        : 1
+     200
+     200  SYNCHROTRON              (Y/N) : Y
+     200  RADIATION SOURCE               : APS
+     200  BEAMLINE                       : 19-ID
+     200  X-RAY GENERATOR MODEL          : NULL
+     200  MONOCHROMATIC OR LAUE    (M/L) : M
+     200  WAVELENGTH OR RANGE        (A) : 0.97921
+     200  MONOCHROMATOR                  : NULL
+     200  OPTICS                         : NULL
+     200
+     200  DETECTOR TYPE                  : CCD
+     200  DETECTOR MANUFACTURER          : ADSC CCD
+     200  INTENSITY-INTEGRATION SOFTWARE : HKL-2000
+     200  DATA SCALING SOFTWARE          : HKL-2000
+     200
+     200  NUMBER OF UNIQUE REFLECTIONS   : 65220
+     200  RESOLUTION RANGE HIGH      (A) : 2.750
+     200  RESOLUTION RANGE LOW       (A) : 49.200
+     200  REJECTION CRITERIA  (SIGMA(I)) : -3.000
+     200
+     200 OVERALL.
+     200  COMPLETENESS FOR RANGE     (%) : 98.0
+     200  DATA REDUNDANCY                : 12.40
+     200  R MERGE                    (I) : 0.06000
+     200  R SYM                      (I) : NULL
+     200  <I/SIGMA(I)> FOR THE DATA SET  : 42.0000
+     200
+     200 IN THE HIGHEST RESOLUTION SHELL.
+     200  HIGHEST RESOLUTION SHELL, RANGE HIGH (A) : 2.75
+     200  HIGHEST RESOLUTION SHELL, RANGE LOW  (A) : 2.78
+     200  COMPLETENESS FOR SHELL     (%) : 80.9
+     200  DATA REDUNDANCY IN SHELL       : 5.30
+     200  R MERGE FOR SHELL          (I) : 0.62000
+     200  R SYM FOR SHELL            (I) : NULL
+     200  <I/SIGMA(I)> FOR SHELL         : 2.000
+     200
+     200 DIFFRACTION PROTOCOL: SINGLE WAVELENGTH
+     200 METHOD USED TO DETERMINE THE STRUCTURE: OTHER
+     200 SOFTWARE USED: NULL
+     200 STARTING MODEL: NONE
+     200
+     200 REMARK: NONE
+     280
+     280 CRYSTAL
+     280 SOLVENT CONTENT, VS   (%): 80.30
+     280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 6.20
+     280
+     280 CRYSTALLIZATION CONDITIONS: VAPOR DIFFUSION, SITTING DROP, 20
+     280  DEGREES. DROP: 0.8 MICRO-LITERS OF PROTEIN (10 MG/ML IN 25 MM
+     280  HEPES, PH 7.4, 200 MM SODIUM CHLORIDE, 1 MM PMSF, 5 MM DTT)
+     PLUS
+     280  0.8 MICRO-LITERS OF CRYSTALLIZATION SOLUTION (0.8 M LITHIUM
+     280  SULFATE, 0.8 M AMMONIUM SULFATE, 0.4 M SODIUM CHLORIDE, 0.1 M
+     280  SODIUM CITRATE, PH 5.6, 10 MM DTT). RESERVOIR: 1 ML OF
+     280  CRYSTALLIZATION SOLUTION. CRYSTALS APPEARED WITHIN 12 HOURS
+     AND
+     280  GREW TO THEIR FINAL SIZE WITHIN 10 DAYS. CRYO-PROTECTION
+     280  SOLUTION: RESERVOIR SOLUTION PLUS 23 PERCENT (V/V) GLYCEROL.,
+     280  TEMPERATURE 293K
+     290
+     290 CRYSTALLOGRAPHIC SYMMETRY
+     290 SYMMETRY OPERATORS FOR SPACE GROUP: I 2 2 2
+     290
+     290      SYMOP   SYMMETRY
+     290     NNNMMM   OPERATOR
+     290       1555   X,Y,Z
+     290       2555   -X,-Y,Z
+     290       3555   -X,Y,-Z
+     290       4555   X,-Y,-Z
+     290       5555   X+1/2,Y+1/2,Z+1/2
+     290       6555   -X+1/2,-Y+1/2,Z+1/2
+     290       7555   -X+1/2,Y+1/2,-Z+1/2
+     290       8555   X+1/2,-Y+1/2,-Z+1/2
+     290
+     290     WHERE NNN -> OPERATOR NUMBER
+     290           MMM -> TRANSLATION VECTOR
+     290
+     290 CRYSTALLOGRAPHIC SYMMETRY TRANSFORMATIONS
+     290 THE FOLLOWING TRANSFORMATIONS OPERATE ON THE ATOM/HETATM
+     290 RECORDS IN THIS ENTRY TO PRODUCE CRYSTALLOGRAPHICALLY
+     290 RELATED MOLECULES.
+     290   SMTRY1   1  1.000000  0.000000  0.000000        0.00000
+     290   SMTRY2   1  0.000000  1.000000  0.000000        0.00000
+     290   SMTRY3   1  0.000000  0.000000  1.000000        0.00000
+     290   SMTRY1   2 -1.000000  0.000000  0.000000        0.00000
+     290   SMTRY2   2  0.000000 -1.000000  0.000000        0.00000
+     290   SMTRY3   2  0.000000  0.000000  1.000000        0.00000
+     290   SMTRY1   3 -1.000000  0.000000  0.000000        0.00000
+     290   SMTRY2   3  0.000000  1.000000  0.000000        0.00000
+     290   SMTRY3   3  0.000000  0.000000 -1.000000        0.00000
+     290   SMTRY1   4  1.000000  0.000000  0.000000        0.00000
+     290   SMTRY2   4  0.000000 -1.000000  0.000000        0.00000
+     290   SMTRY3   4  0.000000  0.000000 -1.000000        0.00000
+     290   SMTRY1   5  1.000000  0.000000  0.000000       60.39900
+     290   SMTRY2   5  0.000000  1.000000  0.000000       89.25000
+     290   SMTRY3   5  0.000000  0.000000  1.000000      117.94000
+     290   SMTRY1   6 -1.000000  0.000000  0.000000       60.39900
+     290   SMTRY2   6  0.000000 -1.000000  0.000000       89.25000
+     290   SMTRY3   6  0.000000  0.000000  1.000000      117.94000
+     290   SMTRY1   7 -1.000000  0.000000  0.000000       60.39900
+     290   SMTRY2   7  0.000000  1.000000  0.000000       89.25000
+     290   SMTRY3   7  0.000000  0.000000 -1.000000      117.94000
+     290   SMTRY1   8  1.000000  0.000000  0.000000       60.39900
+     290   SMTRY2   8  0.000000 -1.000000  0.000000       89.25000
+     290   SMTRY3   8  0.000000  0.000000 -1.000000      117.94000
+     290
+     290 REMARK: NULL
+     300
+     300 BIOMOLECULE: 1
+     300 SEE REMARK 350 FOR THE AUTHOR PROVIDED AND/OR PROGRAM
+     300 GENERATED ASSEMBLY INFORMATION FOR THE STRUCTURE IN
+     300 THIS ENTRY. THE REMARK MAY ALSO PROVIDE INFORMATION ON
+     300 BURIED SURFACE AREA.
+     350
+     350 COORDINATES FOR A COMPLETE MULTIMER REPRESENTING THE KNOWN
+     350 BIOLOGICALLY SIGNIFICANT OLIGOMERIZATION STATE OF THE
+     350 MOLECULE CAN BE GENERATED BY APPLYING BIOMT TRANSFORMATIONS
+     350 GIVEN BELOW.  BOTH NON-CRYSTALLOGRAPHIC AND
+     350 CRYSTALLOGRAPHIC OPERATIONS ARE GIVEN.
+     350
+     350 BIOMOLECULE: 1
+     350 SOFTWARE DETERMINED QUATERNARY STRUCTURE: DIMERIC
+     350 SOFTWARE USED: PQS
+     350 TOTAL BURIED SURFACE AREA: 6120 ANGSTROM**2
+     350 SURFACE AREA OF THE COMPLEX: 46610 ANGSTROM**2
+     350 CHANGE IN SOLVENT FREE ENERGY: -54.1 KCAL/MOL
+     350 APPLY THE FOLLOWING TO CHAINS: A, B
+     350   BIOMT1   1  1.000000  0.000000  0.000000        0.00000
+     350   BIOMT2   1  0.000000  1.000000  0.000000        0.00000
+     350   BIOMT3   1  0.000000  0.000000  1.000000        0.00000
+     465
+     465 MISSING RESIDUES
+     465 THE FOLLOWING RESIDUES WERE NOT LOCATED IN THE
+     465 EXPERIMENT. (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN
+     465 IDENTIFIER; SSSEQ=SEQUENCE NUMBER; I=INSERTION CODE.)
+     465
+     465   M RES C SSSEQI
+     465     LEU A   836
+     465     MET B   248
+     465     GLY B   249
+     465     SER B   250
+     465     SER B   251
+     465     HIS B   252
+     465     HIS B   253
+     465     HIS B   254
+     465     HIS B   255
+     465     HIS B   256
+     465     HIS B   257
+     465     SER B   258
+     465     SER B   259
+     465     GLY B   260
+     465     LEU B   261
+     465     VAL B   262
+     465     PRO B   263
+     465     ARG B   264
+     465     GLY B   265
+     465     SER B   266
+     465     HIS B   267
+     465     MET B   268
+     465     ALA B   269
+     465     SER B   270
+     465     MET B   271
+     465     THR B   272
+     465     GLY B   273
+     465     GLY B   274
+     465     GLN B   275
+     465     GLN B   276
+     465     MET B   277
+     465     GLY B   278
+     465     ARG B   279
+     465     GLY B   280
+     465     SER B   281
+     465     GLU B   282
+     465     PHE B   283
+     465     GLY B   284
+     465     ARG B   285
+     465     PRO B   286
+     465     THR B   287
+     465     GLU B   288
+     465     THR B   289
+     465     VAL B   290
+     465     PRO B   291
+     465     GLN B   292
+     465     VAL B   293
+     465     LYS B   294
+     465     LYS B   295
+     465     GLU B   296
+     465     LYS B   297
+     465     HIS B   298
+     465     SER B   299
+     465     THR B   300
+     465     GLN B   301
+     465     ALA B   302
+     465     LYS B   303
+     465     ASN B   304
+     465     ARG B   305
+     465     ALA B   306
+     465     LYS B   307
+     465     GLY B   442
+     465     LYS B   443
+     465     GLU B   444
+     465     GLU B   445
+     465     THR B   446
+     465     ASN B   447
+     465     GLY B   448
+     465     PRO B   449
+     465     SER B   450
+     465     ASN B   451
+     465     GLN B   452
+     465     LYS B   453
+     465     PRO B   454
+     465     VAL B   455
+     465     LYS B   456
+     465     SER B   457
+     465     PRO B   458
+     465     ASP B   459
+     465     ASN B   460
+     465     SER B   461
+     465     ILE B   462
+     465     LYS B   463
+     465     MET B   464
+     465     PRO B   465
+     465     GLU B   466
+     465     GLU B   467
+     465     GLU B   468
+     465     ASP B   469
+     465     GLU B   470
+     465     ALA B   471
+     465     PRO B   472
+     465     VAL B   473
+     465     LEU B   474
+     465     ASP B   475
+     465     VAL B   476
+     465     ARG B   477
+     465     TYR B   478
+     465     ALA B   479
+     465     SER B   480
+     465     ALA B   481
+     465     SER B   482
+     500
+     500 GEOMETRY AND STEREOCHEMISTRY
+     500 SUBTOPIC: CLOSE CONTACTS IN SAME ASYMMETRIC UNIT
+     500
+     500 THE FOLLOWING ATOMS ARE IN CLOSE CONTACT.
+     500
+     500  ATM1  RES C  SSEQI   ATM2  RES C  SSEQI           DISTANCE
+     500   O    GLN A   427     CD1  TRP A   431              2.18
+     500
+     500 REMARK: NULL
+     500
+     500 GEOMETRY AND STEREOCHEMISTRY
+     500 SUBTOPIC: COVALENT BOND LENGTHS
+     500
+     500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES
+     500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE
+     500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN
+     500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).
+     500
+     500 STANDARD TABLE:
+     500 FORMAT: (10X,I3,1X,2(A3,1X,A1,I4,A1,1X,A4,3X),1X,F6.3)
+     500
+     500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999
+     500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996
+     500
+     500  M RES CSSEQI ATM1   RES CSSEQI ATM2   DEVIATION
+     500    TRP A 431   C     LYS A 432   N      -0.388
+     500
+     500 REMARK: NULL
+     500
+     500 GEOMETRY AND STEREOCHEMISTRY
+     500 SUBTOPIC: COVALENT BOND ANGLES
+     500
+     500 THE STEREOCHEMICAL PARAMETERS OF THE FOLLOWING RESIDUES
+     500 HAVE VALUES WHICH DEVIATE FROM EXPECTED VALUES BY MORE
+     500 THAN 6*RMSD (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN
+     500 IDENTIFIER; SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).
+     500
+     500 STANDARD TABLE:
+     500 FORMAT: (10X,I3,1X,A3,1X,A1,I4,A1,3(1X,A4,2X),12X,F5.1)
+     500
+     500 EXPECTED VALUES PROTEIN: ENGH AND HUBER, 1999
+     500 EXPECTED VALUES NUCLEIC ACID: CLOWNEY ET AL 1996
+     500
+     500  M RES CSSEQI ATM1   ATM2   ATM3
+     500    TRP A 431   CA  -  C   -  N   ANGL. DEV. = -22.9 DEGREES
+     500    TRP A 431   O   -  C   -  N   ANGL. DEV. =  22.6 DEGREES
+     500    LYS A 432   C   -  N   -  CA  ANGL. DEV. = -23.4 DEGREES
+     500
+     500 REMARK: NULL
+     500
+     500 GEOMETRY AND STEREOCHEMISTRY
+     500 SUBTOPIC: TORSION ANGLES
+     500
+     500 TORSION ANGLES OUTSIDE THE EXPECTED RAMACHANDRAN REGIONS:
+     500 (M=MODEL NUMBER; RES=RESIDUE NAME; C=CHAIN IDENTIFIER;
+     500 SSEQ=SEQUENCE NUMBER; I=INSERTION CODE).
+     500
+     500 STANDARD TABLE:
+     500 FORMAT:(10X,I3,1X,A3,1X,A1,I4,A1,4X,F7.2,3X,F7.2)
+     500
+     500 EXPECTED VALUES: GJ KLEYWEGT AND TA JONES (1996). PHI/PSI-
+     500 CHOLOGY: RAMACHANDRAN REVISITED. STRUCTURE 4, 1395 - 1400
+     500
+     500  M RES CSSEQI        PSI       PHI
+     500    ASN A 224       82.96   -152.45
+     500    MET A 332      -24.96   -144.94
+     500    ASN A 403       -3.10     70.27
+     500    VAL A 480      -67.09     73.81
+     500    PRO A 701       83.37    -60.04
+     500    ALA A 757      -59.10   -138.40
+     500    LYS B 312      104.98    -56.64
+     500    ASN B 429       45.34     38.99
+     500
+     500 REMARK: NULL
+     500
+     500 GEOMETRY AND STEREOCHEMISTRY
+     500 SUBTOPIC: MAIN CHAIN PLANARITY
+     500
+     500 THE FOLLOWING RESIDUES HAVE A PSEUDO PLANARITY
+     500 TORSION ANGLE, C(I) - CA(I) - N(I+1) - O(I), GREATER
+     500 10.0 DEGREES. (M=MODEL NUMBER; RES=RESIDUE NAME;
+     500 C=CHAIN IDENTIFIER; SSEQ=SEQUENCE NUMBER;
+     500 I=INSERTION CODE).
+     500
+     500  M RES CSSEQI        ANGLE
+     500    HIS A 430        -14.47
+     500
+     500 REMARK: NULL
+     800
+     800 SITE
+     800 SITE_IDENTIFIER: AC1
+     800 EVIDENCE_CODE: SOFTWARE
+     800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE FAJ A 900
+     800
+     800 SITE_IDENTIFIER: AC2
+     800 EVIDENCE_CODE: SOFTWARE
+     800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE GOL A 1837
+     800
+     800 SITE_IDENTIFIER: AC3
+     800 EVIDENCE_CODE: SOFTWARE
+     800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE GOL A 1838
+     900
+     900 RELATED ENTRIES
+     900 RELATED ID: 2COM   RELATED DB: PDB
+     900 THE SOLUTION STRUCTURE OF THE 33RD FIBRONECTIN TYPE IIIDOMAIN
+     OF
+     900 HUMAN TENASCIN- X
+     900 RELATED ID: 2H94   RELATED DB: PDB
+     900 CRYSTAL STRUCTURE AND MECHANISM OF HUMAN LYSINE-
+     SPECIFICDEMETHYLASE-
+     900 1
+     900 RELATED ID: 2IW5   RELATED DB: PDB
+     900 STRUCTURAL BASIS FOR COREST-DEPENDENT DEMETHYLATION OF
+     NUCLEOSOMES
+     900 BY THE HUMAN LSD1 HISTONE DEMETHYLASE
+     900 RELATED ID: 2UXN   RELATED DB: PDB
+     900 STRUCTURAL BASIS OF HISTONE DEMETHYLATION BY LSD1 REVEALED BY
+     900 SUICIDE INACTIVATION
+     999
+     999 SEQUENCE
+     999 THE CONSTRUCT USED CONTAINS A LINKER (
+     999 MGSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGSEFGR) FROM THE CLONING
+     999 PROCEDURE.
+
+$$$$
